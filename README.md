@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugurkellecioglu" alt="ugurkellecioglu" /></a> </p>
 
-- 🔭 I’m currently working on [https://lifind.netlify.app/](**LyricFinder**), [sellerpan.com](**Sellerpan**)
+- 🔭 I’m currently working on [lifind.netlify.app](**LyricFinder**), [sellerpan.com](**Sellerpan**)
 
 - 🌱 I’m currently learning **React js & Next js**
 
