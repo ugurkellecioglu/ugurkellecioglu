@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugurkellecioglu" alt="ugurkellecioglu" /></a> </p>
 
-- 🔭 I’m currently working on **LyricFinder**, **Sellerpan**
+- 🔭 I’m currently working on **LyricFinder**, [sellerpan.com](**Sellerpan**)
 
 - 🌱 I’m currently learning **React js & Next js**
 
 - 📫 How to reach me **ugur.kellecioglu@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ugurkellecioglu/](https://www.linkedin.com/in/ugurkellecioglu/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ugurkellecioglu/](LinkedIn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
