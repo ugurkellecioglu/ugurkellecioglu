@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugurkellecioglu" alt="ugurkellecioglu" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](http://ugurkellecioglu.me), [Asinpan](https://www.asinpan.com)
+- 🔭 I’m currently working on [My Portfolio](http://ugurkellecioglu.me), [Asinpan](https://www.asinpan.com), [Secrets For All](https://secretsforall.herokuapp.com)
 
-- 🌱 I’m currently learning **React js & Next js**
+- 🌱 I’m currently learning **Performance Optimization**
 
 - 📫 How to reach me **ugur.kellecioglu@outlook.com**
 
