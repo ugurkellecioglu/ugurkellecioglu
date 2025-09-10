@@ -1,3 +1,3 @@
 - 📫 How to reach me **ugur.kellecioglu@outlook.com**
 
-- ugurkellecioglu.me
+- ugurkellecioglu.com
